@@ -129,9 +129,9 @@ function navbar() {
 
               </div>
 
-              <a className="btn" >
+              {/* <a className="btn" >
                 <Image style={{ float: 'left' }} height={23} width={23} src="/img/walleticon.svg" alt="img" />
-              </a>
+              </a> */}
 
             </div>
 
